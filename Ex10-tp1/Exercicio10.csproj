@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Ex6\Ex6\Exercicio06.csproj" />
   </ItemGroup>
 
 </Project>
